@@ -10,5 +10,6 @@
 @implementation ZSCommonView
 + (void)whoIam{
     NSLog(@"I am ZST");
+    NSLog(@"我是分支上的变动哦");
 }
 @end
