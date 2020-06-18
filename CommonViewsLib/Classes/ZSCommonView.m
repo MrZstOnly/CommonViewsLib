@@ -10,5 +10,6 @@
 @implementation ZSCommonView
 + (void)whoIam{
     NSLog(@"I am ZST");
+    NSLog(@"我是主干上发布的新版本");
 }
 @end
