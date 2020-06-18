@@ -1,0 +1,16 @@
+PODS:
+  - CommonViewsLib (0.1.0)
+
+DEPENDENCIES:
+  - CommonViewsLib (from `../`)
+
+EXTERNAL SOURCES:
+  CommonViewsLib:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  CommonViewsLib: 2acba02e21ee7149b505bbf1468478f5b4b46dd3
+
+PODFILE CHECKSUM: 29079f64d963166e019d771c922860a09b5bb622
+
+COCOAPODS: 1.9.1

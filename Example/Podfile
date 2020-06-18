@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '8.0'
+
+target 'CommonViewsLib_Example' do
+  pod 'CommonViewsLib', :path => '../'
+
+  target 'CommonViewsLib_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
